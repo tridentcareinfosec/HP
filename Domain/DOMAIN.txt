@@ -51,10 +51,6 @@
 163.gdn
 163corn.com
 180cash-out.com
-185.165.29.25
-185.165.29.51
-185.165.29.59
-193.124.178.134
 198-163.com
 1andisgyr.com
 1awdeb.com
@@ -123,8 +119,6 @@
 4-tek-it.com
 40uk.duckdns.org
 433455666778.com
-46.183.222.15
-46.20.33.87
 4hs-ge.com
 4j-apparels.com
 4kmatel.com
